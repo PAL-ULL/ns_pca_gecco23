@@ -16,5 +16,5 @@ Generating new instances via evolutionary methods is commonly used to create new
 
 # Relevant information
 
-- Source code: DIGNEA, available [here]()
+- Source code: DIGNEA, available [here](https://github.com/DIGNEA/dignea.git)
 - $NS_f$ 8D results from PPSN are available [here](https://github.com/PAL-ULL/ns_kp_generation)
